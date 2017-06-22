@@ -14,3 +14,6 @@ See [docs](https://aureooms.github.io/js-codec-utf8/index.html).
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-codec-utf8.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-codec-utf8)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-codec-utf8.svg?style=flat)](https://github.com/aureooms/js-codec-utf8/issues)
 [![Documentation](https://aureooms.github.io/js-codec-utf8/badge.svg)](https://aureooms.github.io/js-codec-utf8/source.html)
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/aureooms/js-codec-utf8.svg)](https://greenkeeper.io/)

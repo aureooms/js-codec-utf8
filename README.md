@@ -1,8 +1,8 @@
-[@aureooms/js-codec-utf8](https://aureooms.github.io/js-codec-utf8)
+[@aureooms/js-codec-utf8](https://make-github-pseudonymous-again.github.io/js-codec-utf8)
 ==
 
 UTF8 encoder/decoder for JavaScript.
-See [docs](https://aureooms.github.io/js-codec-utf8/index.html).
+See [docs](https://make-github-pseudonymous-again.github.io/js-codec-utf8/index.html).
 Parent is [@aureooms/js-codec](https://github.com/aureooms/js-codec).
 
 ```js
@@ -17,4 +17,4 @@ Parent is [@aureooms/js-codec](https://github.com/aureooms/js-codec).
 [![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-codec-utf8.svg?style=flat)](https://codeclimate.com/github/aureooms/js-codec-utf8)
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-codec-utf8.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-codec-utf8)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-codec-utf8.svg?style=flat)](https://github.com/aureooms/js-codec-utf8/issues)
-[![Documentation](https://aureooms.github.io/js-codec-utf8/badge.svg)](https://aureooms.github.io/js-codec-utf8/source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-codec-utf8/badge.svg)](https://make-github-pseudonymous-again.github.io/js-codec-utf8/source.html)

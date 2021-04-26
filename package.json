@@ -33,7 +33,7 @@
     "esdoc": "^0.4.8",
     "nyc": "^8.4.0"
   },
-  "homepage": "https://aureooms.github.io/js-codec-utf8",
+  "homepage": "https://make-github-pseudonymous-again.github.io/js-codec-utf8",
   "keywords": ["codec", "decode", "encode", "strings", "utf8"],
   "license": "AGPL-3.0",
   "main": "lib/index.js",
